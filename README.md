@@ -1,2 +1,2 @@
 # Machine_Learning
-Code written for ML classes
+Code written for the Intro to Machine Learning course from Udacity. 
